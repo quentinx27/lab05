@@ -2,19 +2,25 @@
 
 ## Point: 1
 
-### Point: 1.2 & 1.3
+### Point: 1.2 
 
 - download linux MSL
   
 ![462639749_1125256001803045_1165160604047265856_n](https://github.com/user-attachments/assets/ab949084-2adc-4b46-b19d-d25331453688)
 
+### Point:  1.3
+
 - ติดตั้งเสร็จแล้วรอ restart
   
 ![462566928_1642551763004856_8665693952908403923_n](https://github.com/user-attachments/assets/00be2bf2-c404-4531-9a15-59cee518dd37)
 
+### Point:  1.4
+
 - สร้าง Username & password
   
 ![462558932_3435356486771721_4802501103814210261_n](https://github.com/user-attachments/assets/bb9cc8db-0e9f-447b-91f0-d06dd3125238)
+
+### Point:  1.5
 
 - ใช้งานได้แล้ว
   

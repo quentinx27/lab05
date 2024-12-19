@@ -333,7 +333,7 @@ netstat -n
   
 ![image](https://github.com/user-attachments/assets/62154da9-aa8d-4157-a16e-1f5959c4907e)
 
-***หากยังไม่มี htop ให้ติดตั้งด้วยคำสั่ง: sudo apt install htop ***
+***หากยังไม่มี htop ให้ติดตั้งด้วยคำสั่ง: sudo apt install htop***
 
 # 
 Thippharake Na Chiengmai Code:662115019

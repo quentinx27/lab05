@@ -135,4 +135,30 @@ ls -alt:
 
 ![image](https://github.com/user-attachments/assets/8cf58e69-1e6b-4dc7-b893-ba254924c5cd)
 
+wc name.csv: Stands for "word count". It outputs:
+```
+Number of lines,
+Number of words,
+Number of characters in the file.
+```
+
+### Point: 4.4
+
+![image](https://github.com/user-attachments/assets/a4993735-7d1d-4d90-bfcc-46718b3ef84d)
+
+### Point: 4.5
+
+cat: Displays the full content immediately.
+
+more: Paginates the content for better readability in large files.
+
+head: Displays the start of the file (first 10 lines).
+
+tail: Displays the end of the file (last 10 lines).
+
+wc: Counts lines, words, and characters; use -l to count only lines.
+
+## Point: 5
+
+
 

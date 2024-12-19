@@ -172,6 +172,62 @@ wc: Counts lines, words, and characters; use -l to count only lines.
 
 ![image](https://github.com/user-attachments/assets/a12e1024-994b-4247-8621-84c2a4f8a2dd)
 
+### Point: 5.6
 
+
+- What is an environment variable?
+
+คำตอบ: Environment Variable คือค่าที่กำหนดไว้ในระบบปฏิบัติการเพื่อเก็บข้อมูลที่เกี่ยวข้องกับการตั้งค่าของโปรแกรมและระบบ ตัวแปรเหล่านี้ช่วยให้กระบวนการ (process) และโปรแกรมสามารถแชร์ข้อมูลที่สำคัญร่วมกันได้ เช่น:
+```
+PATH: กำหนดไดเรกทอรีสำหรับการค้นหาโปรแกรม
+HOME: โฟลเดอร์บ้านของผู้ใช้งาน
+USER: ชื่อผู้ใช้ที่ล็อกอินในระบบ
+```
+ตัวแปรเหล่านี้ถูกจัดเก็บเป็นคู่ key=value และสามารถเรียกดูได้ด้วยคำสั่ง เช่น printenv หรือ env
+
+
+- What does the command echo $PATH output and what does it mean?
+
+คำตอบ: คำสั่ง echo $PATH ใช้สำหรับแสดงค่าของ Environment Variable ที่ชื่อ PATH ซึ่งเป็นรายการของไดเรกทอรีที่ระบบจะค้นหาเมื่อคุณพิมพ์คำสั่ง ตัวอย่างผลลัพธ์:
+
+javascript
+```
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+```
+ความหมาย:
+
+แต่ละไดเรกทอรีใน PATH คั่นด้วย :
+
+เมื่อคุณรันคำสั่ง เช่น ls ระบบจะค้นหาไฟล์ที่ชื่อ ls ในไดเรกทอรีเหล่านี้ตามลำดับ
+
+
+- What does the man which explain about the which command?
+
+คำตอบ: คำสั่ง man which แสดงคู่มือของคำสั่ง which ซึ่งใช้สำหรับค้นหา absolute path ของคำสั่งหรือโปรแกรม ตัวอย่าง:
+```
+which ls
+
+ผลลัพธ์: /bin/ls
+```
+ระบบแสดงว่าโปรแกรม ls อยู่ที่ตำแหน่ง /bin/ls
+
+- What is the absolute path of the ls command?
+คำตอบ: ใช้คำสั่ง:
+
+
+which ls
+ผลลัพธ์: /bin/ls
+Absolute Path ของ ls: /bin/ls
+คำตอบสำหรับข้อ 5.5
+คำถาม: What is the absolute path of the man command?
+คำตอบ: ใช้คำสั่ง:
+```
+which man
+
+ผลลัพธ์: /usr/bin/man
+
+Absolute Path ของ man: /usr/bin/man
+
+```
 
 

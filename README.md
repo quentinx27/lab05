@@ -260,6 +260,7 @@ Absolute Path ของ man: /usr/bin/man
 ```
 ifconfig
 ```
+
 ***หมายเหตุ: หากคำสั่ง ifconfig ไม่พร้อมใช้งาน ให้ติดตั้งด้วย: sudo apt install net-tools***
 
 - 6.2 Find the IP of www.google.com using the nslookup command
@@ -270,6 +271,7 @@ ifconfig
 ```
 nslookup www.google.com
 ```
+
 ***หมายเหตุ: หาก nslookup ไม่พร้อมใช้งาน ให้ติดตั้งด้วย: sudo apt install dnsutils***
 
 - 6.3 Try to use ping and traceroute commands and explain what they are for
@@ -291,6 +293,7 @@ ping www.google.com
 ```
 traceroute www.google.com
 ```
+
 ***หมายเหตุ: หาก traceroute ไม่พร้อมใช้งาน ให้ติดตั้งด้วย: sudo apt install traceroute***
 
 6.4 Execute netstat -n and explain what the resultant table is
@@ -301,6 +304,7 @@ traceroute www.google.com
 ```
 netstat -n
 ```
+
 ***หมายเหตุ: หาก netstat ไม่พร้อมใช้งาน ให้ติดตั้งด้วย: sudo apt install net-tools***
 
 

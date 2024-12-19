@@ -248,6 +248,8 @@ Absolute Path ของ man: /usr/bin/man
 
 ### Point: 6.4
 
+![image](https://github.com/user-attachments/assets/24721f88-db1d-4d10-bf0b-03d244830c3d)
+
 ### Point: 6.5
 
 ## Point: 7

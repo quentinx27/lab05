@@ -115,5 +115,8 @@ ls -alt:
 
 ![image](https://github.com/user-attachments/assets/0f46c365-0302-4530-bd69-d5cc6715bdfc)
 
+![image](https://github.com/user-attachments/assets/b4f2e8df-9407-4395-8c77-4f2041391fa8)
+
+## Point: 4
 
 

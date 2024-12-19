@@ -160,5 +160,10 @@ wc: Counts lines, words, and characters; use -l to count only lines.
 
 ## Point: 5
 
+### Point: 5.2
+
+![image](https://github.com/user-attachments/assets/9e246a2d-608f-436c-abf8-23173ed1334f)
+
+
 
 

@@ -4,7 +4,7 @@
 
 ### Point: 1.2 
 
-- download linux MSL
+- download linux WSL
   
 ![462639749_1125256001803045_1165160604047265856_n](https://github.com/user-attachments/assets/ab949084-2adc-4b46-b19d-d25331453688)
 

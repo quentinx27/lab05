@@ -229,3 +229,5 @@ which man
 Absolute Path ของ man: /usr/bin/man
 
 ```
+
+## Point: 6

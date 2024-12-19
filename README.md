@@ -209,6 +209,7 @@ javascript
 ```
 
 - 5.4 What is the absolute path of the ls command?
+  
 คำตอบ: ใช้คำสั่ง:
 ```
 which ls
@@ -218,6 +219,7 @@ which ls
 Absolute Path ของ ls: /bin/ls
 ```
 - 5.5 What is the absolute path of the man command?
+  
 คำตอบ: ใช้คำสั่ง:
 ```
 which man

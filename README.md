@@ -335,5 +335,5 @@ netstat -n
 
 ***หากยังไม่มี htop ให้ติดตั้งด้วยคำสั่ง: sudo apt install htop ***
 
-# Thippharake Na Chiengmai Code:662115019
-
+# 
+Thippharake Na Chiengmai Code:662115019

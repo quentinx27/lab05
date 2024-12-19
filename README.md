@@ -103,5 +103,8 @@ ls -alt:
 -l: Provides a detailed list (permissions, ownership, size, etc.).
 -t: Sorts the list by modification time, showing the most recently modified files first.
  ```
+### Point: 3.4
+
+![image](https://github.com/user-attachments/assets/3b7752c3-35f0-4993-9738-f82e8cae4aa4)
 
 

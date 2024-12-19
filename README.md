@@ -107,4 +107,8 @@ ls -alt:
 
 ![image](https://github.com/user-attachments/assets/3b7752c3-35f0-4993-9738-f82e8cae4aa4)
 
+### Point: 3.5
+
+![image](https://github.com/user-attachments/assets/ed560a62-8384-4aba-a59a-d86874e68169)
+
 

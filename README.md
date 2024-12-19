@@ -252,6 +252,59 @@ Absolute Path ของ man: /usr/bin/man
 
 ### Point: 6.5
 
+- 6.1 Find your IP using the ifconfig command
+
+คำสั่ง ifconfig ใช้เพื่อแสดงข้อมูลการตั้งค่าของเครือข่าย รวมถึง IP Address ของอินเทอร์เฟซเครือข่าย
+
+คำสั่ง:
+```
+ifconfig
+```
+***หมายเหตุ: หากคำสั่ง ifconfig ไม่พร้อมใช้งาน ให้ติดตั้งด้วย: sudo apt install net-tools***
+
+- 6.2 Find the IP of www.google.com using the nslookup command
+
+คำสั่ง nslookup ใช้สำหรับค้นหา IP Address ของโดเมนผ่าน DNS (Domain Name System)
+
+คำสั่ง:
+```
+nslookup www.google.com
+```
+***หมายเหตุ: หาก nslookup ไม่พร้อมใช้งาน ให้ติดตั้งด้วย: sudo apt install dnsutils***
+
+- 6.3 Try to use ping and traceroute commands and explain what they are for
+  
+คำสั่ง ping
+
+คำอธิบาย:ใช้ทดสอบความเชื่อมต่อระหว่างเครื่องของคุณและปลายทาง โดยส่งแพ็กเก็ต ICMP และตรวจสอบการตอบกลับ
+
+คำสั่ง:
+```
+ping www.google.com
+```
+
+คำสั่ง traceroute
+
+คำอธิบาย: ใช้ตรวจสอบเส้นทาง (hops) ที่ข้อมูลเดินทางจากเครื่องของคุณไปยังปลายทาง
+
+คำสั่ง:
+```
+traceroute www.google.com
+```
+***หมายเหตุ: หาก traceroute ไม่พร้อมใช้งาน ให้ติดตั้งด้วย: sudo apt install traceroute***
+
+6.4 Execute netstat -n and explain what the resultant table is
+
+คำอธิบาย:คำสั่ง netstat -n ใช้เพื่อแสดงตารางการเชื่อมต่อเครือข่ายในรูปแบบตัวเลข (numeric)
+
+คำสั่ง:
+```
+netstat -n
+```
+***หมายเหตุ: หาก netstat ไม่พร้อมใช้งาน ให้ติดตั้งด้วย: sudo apt install net-tools***
+
+
+
 ## Point: 7
 
 ### Point: 7.1

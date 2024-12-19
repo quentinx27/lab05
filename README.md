@@ -231,3 +231,5 @@ Absolute Path ของ man: /usr/bin/man
 ```
 
 ## Point: 6
+
+### Point: 6.1

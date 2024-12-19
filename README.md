@@ -313,5 +313,8 @@ netstat -n
 
 ### Point: 7.1
 
+### Point: 7.2
+
+### Point: 7.3
 
 

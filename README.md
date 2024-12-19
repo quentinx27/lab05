@@ -28,7 +28,11 @@
 
 ## Point: 2
 
+### Point:  2.1 - 2.2
+
 ![462575366_3976860145924579_710532576739828145_n](https://github.com/user-attachments/assets/a34453eb-0099-495d-9514-b2bd0baefaf9)
+
+### Point:  2.3
 
 1. cd .
    

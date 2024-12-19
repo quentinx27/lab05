@@ -90,4 +90,18 @@ cd $ : ใช้ผิด เพราะ $ ต้องตามด้วยต
 
 ![image](https://github.com/user-attachments/assets/c9c46ddc-4128-4fa9-baa7-9b656f6aa27e)
 
+![image](https://github.com/user-attachments/assets/eee94a7a-e1ba-448b-ab83-9ced96d68c16)
+
+### Point: 3.3
+
+ls: Lists the contents of a directory in a simple format (files and directories only, without details).
+
+ls -alt:
+
+ ```
+-a: Shows all files, including hidden files (those starting with a .).
+-l: Provides a detailed list (permissions, ownership, size, etc.).
+-t: Sorts the list by modification time, showing the most recently modified files first.
+ ```
+
 

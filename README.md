@@ -313,7 +313,11 @@ netstat -n
 
 ### Point: 7.1
 
+![image](https://github.com/user-attachments/assets/e4f7149d-8318-4c3a-a4c9-101aaa6c33f3)
+
 ### Point: 7.2
+
+![image](https://github.com/user-attachments/assets/62154da9-aa8d-4157-a16e-1f5959c4907e)
 
 ### Point: 7.3
 

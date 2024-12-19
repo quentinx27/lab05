@@ -1,13 +1,21 @@
 # lab05
 
 ## Point: 1
+
 - download linux MSL
+  
 ![462639749_1125256001803045_1165160604047265856_n](https://github.com/user-attachments/assets/ab949084-2adc-4b46-b19d-d25331453688)
+
 - ติดตั้งเสร็จแล้วรอ restart
+  
 ![462566928_1642551763004856_8665693952908403923_n](https://github.com/user-attachments/assets/00be2bf2-c404-4531-9a15-59cee518dd37)
+
 - สร้าง Username & password
+  
 ![462558932_3435356486771721_4802501103814210261_n](https://github.com/user-attachments/assets/bb9cc8db-0e9f-447b-91f0-d06dd3125238)
+
 - ใช้งานได้แล้ว
+  
 ![462581203_1415052096119206_3909431758853972472_n](https://github.com/user-attachments/assets/c2c7e006-f437-4bc3-8fdc-54669c822f0c)
 
 ## Point: 2
